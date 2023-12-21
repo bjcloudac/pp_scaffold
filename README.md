@@ -1,3 +1,6 @@
+With these we are just testing CI pipeline to GitHub Actions from Azure, GCP and AWS
+
+
 Azure Badge:
 [![Python Application Test with GitHub Actions from Azure](https://github.com/bjcloudac/pp_scaffold/actions/workflows/azure.yml/badge.svg)](https://github.com/bjcloudac/pp_scaffold/actions/workflows/azure.yml)
 
